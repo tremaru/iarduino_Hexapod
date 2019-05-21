@@ -1,0 +1,39 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_Hexapod
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_Hexapod	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	calibration	KEYWORD2
+	calibration_reset	KEYWORD2
+	go	KEYWORD2
+	set_motion	KEYWORD2
+	set_motionA	KEYWORD2
+	walking	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	SERVO_SG90	LITERAL1
+	SERVO_MG90	LITERAL1
+	SERVO_MG996R	LITERAL1
+	SERVO_FutabaS3003	LITERAL1
+	SERVO_ALL	LITERAL1
+	SERVO_FREE	LITERAL1
+	GO_ON	LITERAL1
+	GO_BACK	LITERAL1
+	GO_LEFT	LITERAL1
+	GO_RIGHT	LITERAL1
+	GO_ON_LEFT	LITERAL1
+	GO_ON_RIGHT	LITERAL1
+	GO_BACK_LEFT	LITERAL1
+	GO_BACK_RIGHT	LITERAL1
+	COM_STOP	LITERAL1
+	COM_SIT	LITERAL1
+	COM_NOD	LITERAL1
+	COM_UP	LITERAL1
+	COM_LAY	LITERAL1
+	COM_TEST	LITERAL1
+	COM_SLEEP	LITERAL1
+	COM_EMPTY	LITERAL1
