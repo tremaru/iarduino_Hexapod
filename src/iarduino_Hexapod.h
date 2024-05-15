@@ -1,5 +1,5 @@
 //	Библиотека для работы с HEXAPOD'ом: http://iarduino.ru/shop/Mehanika/robot-hexapod-shestinogiy.html
-//  Версия: 1.0.0
+//  Версия: 1.0.1
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: http://iarduino.ru/file/258.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: http://wiki.iarduino.ru/page/sborka-hexapod-elektronika/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
